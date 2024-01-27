@@ -1,8 +1,6 @@
 /*
  *     Assignment 1b, Bulls and cows
  *
- *     (Read ASSIGNMENT1b.txt carefully before you start coding)
- *
  */
 
 #include <stdio.h>
